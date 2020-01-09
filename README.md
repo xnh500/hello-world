@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-hello worlf!
+hello world!
